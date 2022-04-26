@@ -1,1 +1,14 @@
 OOPC
+WEEK 1
+1.2
+1 Wat doet de constructor van de klasse book? 
+	Het defineert de variablen en vraagt de cout fucnties van de book.cpp dan maakt het een string book aan met alle info van de couts in een string en daarna print het als je deze functie aanvraagt
+2 Hoe noemen we de tekst tussen de: (dubbelepunt) en de { (krulhaak) bij de constructor? 
+	member functie of methode
+3 Welke functies van de klasse book zijn van buitenaf toegankelijk? 
+	de string book en de void print functie
+4 Waarom denk je dat de schrijver van deze code ervoor heeft gekozen sommige functies
+private te maken?
+	de private dingen kunnen aanpassen zonder dat wat in public staat te verstoren en om de code veiliger te maken
+5 Waarom staat er in de .cpp voor elke functie “book::”? 
+	om het aan aan te geven aan welke class het in komt
